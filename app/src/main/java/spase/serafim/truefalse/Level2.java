@@ -344,7 +344,6 @@ public class Level2 extends AppCompatActivity {
                 }
                 // Условие касание картинки конец
                 return true;
-                
             }
         });
         // Обрабатываем нажатие на правую картинку конец
