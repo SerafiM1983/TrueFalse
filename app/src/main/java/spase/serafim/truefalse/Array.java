@@ -60,7 +60,7 @@ public class Array {
             R.string.lvl1text8,
             R.string.lvl1text9,
             R.string.lvl1text10,
-            R.string.lvl1text10,
+            R.string.lvl1text11,
             R.string.lvl1text12,
     };
     // массив для второго уровня конец
