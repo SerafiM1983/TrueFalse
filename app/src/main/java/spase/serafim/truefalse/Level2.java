@@ -240,9 +240,9 @@ public class Level2 extends AppCompatActivity {
                         //dialogEnd.show();
                     }else {
                         numLeft = random.nextInt(12); //Генерируем случайное число от 0 до 9
-                        img_left.setImageResource(array.images1[numLeft]); // Достаём из массива картинку
+                        img_left.setImageResource(array.images2[numLeft]); // Достаём из массива картинку
                         img_left.startAnimation(a);
-                        text_left.setText(array.texts1[numLeft]); // Достаём из массива текст
+                        text_left.setText(array.texts2[numLeft]); // Достаём из массива текст
 
                         numRight = random.nextInt(12);
                         //Цикл с предусловиемб проверяющий равенство чисел начало
