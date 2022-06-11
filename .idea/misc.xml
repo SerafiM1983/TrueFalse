@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/stil_points_green.xml" value="0.127" />
+        <entry key="app/src/main/res/drawable/button_gamelelevels.xml" value="0.2025" />
+        <entry key="app/src/main/res/drawable/button_stroke_black95_press_white.xml" value="0.2025" />
+        <entry key="app/src/main/res/drawable/button_stroke_white_press_blue.xml" value="0.2025" />
+        <entry key="app/src/main/res/drawable/slyle_btn_black60.xml" value="0.2035" />
+        <entry key="app/src/main/res/drawable/stil_points.xml" value="0.2025" />
+        <entry key="app/src/main/res/drawable/styil_batn_while.xml" value="0.2025" />
+        <entry key="app/src/main/res/drawable/styil_batn_while_blue_press.xml" value="0.203" />
+        <entry key="app/src/main/res/drawable/styil_img_universal.xml" value="0.2025" />
+        <entry key="app/src/main/res/drawable/style_btn_stroke_blask95_press_white.xml" value="0.2035" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/dialogend.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/gamelevels.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/previewdialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/universal.xml" value="0.19469026548672566" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
