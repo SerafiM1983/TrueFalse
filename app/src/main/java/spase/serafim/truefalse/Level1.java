@@ -123,7 +123,7 @@ public class Level1 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 try {
-                    Intent intent = new Intent(Level1.this, CameLevels.class);
+                    Intent intent = new Intent(Level1.this, Level2.class);
                     startActivity(intent);
                     finish();
                 }catch (Exception e){
